@@ -1,7 +1,9 @@
 # React-Audio-Player
 ### How to run the application
 #### Requirements
-- Python 3.12
+- Python v3.12
+- Node v18.16.0
+- npm v9.6.6
 ## Steps
 - Open the command prompt and go to /backend folder and run the following commands.
   ```
